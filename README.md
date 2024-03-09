@@ -93,11 +93,11 @@ Beyond my work in AI, I enjoy playing League of Legends (LoL), other Steam games
 </details>
 </br>
 <a href="https://github.com/Oztobuzz/Smarthome_Forecaster" target="_blank" >
-  <img height = "140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oztobuzz&repo=Smarthome_Forecaster&theme=dracula" style = "margin:15px" />
+  <img height = "120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oztobuzz&repo=Smarthome_Forecaster&theme=dracula"  />
 </a>
 
 <a href="https://github.com/Oztobuzz/HCMUT_PPL_Sem222_MT22" target="_blank">
- <img height = "140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oztobuzz&repo=HCMUT_PPL_Sem222_MT22&theme=dracula" />
+ <img height = "120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oztobuzz&repo=HCMUT_PPL_Sem222_MT22&theme=dracula" />
 </a>
 
 <hr>

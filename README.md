@@ -101,9 +101,10 @@ Beyond my work in AI, I enjoy playing League of Legends (LoL), other Steam games
 </a>
 
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=Oztobuzz&theme=dracula&layout=compact" />
 </a>
+ -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oztobuzz&layout=compact&langs_count=6&card_width=320&theme=dracula"/>
 </a>

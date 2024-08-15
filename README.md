@@ -43,6 +43,7 @@ Beyond my work in AI, I enjoy playing League of Legends (LoL), other Steam games
 <img align="right" alt="meme" height = "200" width = "250" src="https://datasciencedojo.com/wp-content/uploads/20-1.jpg" />
 
  - 📫 How to reach me: [owl112302@gmail.com](mailto:owl112302@gmail.com);
+ - 🔗 How to reach me: [Linkedin](https://www.linkedin.com/in/oanhtran2002/);
  
 
 

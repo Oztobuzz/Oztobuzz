@@ -1,5 +1,4 @@
 
-
 <!--
 **Oztobuzz/Oztobuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center><h1><img src="https://raw.githubusercontent.com/Oztobuzz/Oztobuzz/main/meow_party.gif" width="40"/> Hi there, I am Oanh Tran </h1></center>
+<center><h1><img src="https://raw.githubusercontent.com/Oztobuzz/Oztobuzz/main/meow_party.gif" width="40"/> Hi there, I am Oanh Tran <img src="https://flagpedia.net/data/flags/emoji/google/160x160/vn.png" width="40"/> </h1></center>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/oanhtran2002/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/oanhtran1123" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/tno23112002" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/oanhtran2002/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://smarthealth.vinuni.edu.vn/tran-ngoc-oanh/" target="_blank"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Pi0hJHFc1kJs49t25GlletnnGIGF03_E7A&s"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/tno_112302" target="_blank"><img height="29" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10809.jpg" style="border-radius: 3px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/Oztobuzz" target="_blank"><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
